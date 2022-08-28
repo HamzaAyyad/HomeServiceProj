@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "369207421613",
+    "project_id": "home-services-283bc",
+    "storage_bucket": "home-services-283bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369207421613:android:90c953edc46748f988b424",
+        "android_client_info": {
+          "package_name": "com.mhmdnsar.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369207421613-m35lbtbm71jbeftoa82bcmhqfsd9tr2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XSJCoe0rgPPa9yfgUJQ-AOBieKeQw1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369207421613-m35lbtbm71jbeftoa82bcmhqfsd9tr2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369207421613-jkmbsjv8aklm2o8rf0nm8k38c1oujaa7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mhmdnsar.loginPage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
